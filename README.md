@@ -1,7 +1,7 @@
 **Was?**
 
  - *Lernen* mit der #DailyGitHub Show - Du kannst mir jeden Tag 2 Minuten bei meiner Arbeit auf GitHub über die Schulter schauen. Ich veröffentliche ein kurzes Video in dem du siehst was ich für #DailyGitHub gemacht habe.
- - *Motivieren* - Du willst auch jeden Tag eine Kleinigkeit (oder auch etwas größeres) auf GitHub machen und bist dir nicht sicher, dass du auch die Disziplin dazu hast? Wir verschicken den virtuellen #DailyGitHub Arschtritt. Hinterlasse einfach an diesem Issue einen Kommentar, dass du bei #DailyGitHub mit machen willst. Wir erwähnen dich dann täglich in einem Issue, so dass du erinnert wirst.
+ - *Motivieren* - Du willst auch jeden Tag eine Kleinigkeit (oder auch etwas größeres) auf GitHub machen und bist dir nicht sicher, dass du auch die Disziplin dazu hast? Wir verschicken den virtuellen #DailyGitHub Arschtritt. Hinterlasse einfach an [diesem Issue](https://github.com/LernMoment/DailyGitHub/issues/1) einen Kommentar, dass du bei #DailyGitHub mit machen willst. Wir erwähnen dich dann täglich in einem Issue, so dass du erinnert wirst.
  - *Vermarkten* - Kontinuierliche Aktivität auf GitHub ist eh schon gut für deine Selbstvermarktung. Mit #DailyGitHub gehen wir aber noch einen Schritt weiter. Wir werden eine tägliche Zusammenfassung aller Aktivitäten auf der #DailyGitHub Webseite und per Facebook veröffentlichen. Du brauchst dafür lediglich in deinen Commits, Issues oder PullRequests den Hashtag #DailyGitHub verwenden.
 
 **Warum?**
