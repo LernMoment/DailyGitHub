@@ -1,3 +1,5 @@
+![DailyGitHub Image](/Titelbild_DailyGitHub.jpg?raw=true "#DailyGitHub")
+
 ## Was?
 
  - **Lernen** mit der #DailyGitHub Show - Du kannst mir jeden Tag 2 Minuten bei meiner Arbeit auf GitHub über die Schulter schauen. Ich veröffentliche ein kurzes Video in dem du siehst was ich für #DailyGitHub gemacht habe.
