@@ -1,5 +1,12 @@
 ![DailyGitHub Image](/Titelbild_DailyGitHub.jpg?raw=true "#DailyGitHub")
 
+## Links
+
+ - Die #DailyGitHub Show auf [YouTube](https://www.youtube.com/playlist?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ)
+ - Der [virtuelle Arschtritt](https://github.com/LernMoment/DailyGitHub/issues/1)
+ - Die [Show-Notes](ShowNotes.md) zu jeder Episode der #DailyGitHub Show
+ - Was auf [Facebook](https://www.facebook.com/hashtag/dailygithub?fref=ts) über #DailyGitHub berichtet wird
+
 ## Was?
 
  - **Lernen** mit der [#DailyGitHub Show](https://www.youtube.com/playlist?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ) - Du kannst mir jeden Tag wenige Minuten bei meiner Arbeit auf GitHub über die Schulter schauen. Ich veröffentliche ein kurzes Video in dem du siehst was ich für #DailyGitHub gemacht habe.
