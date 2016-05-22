@@ -10,7 +10,15 @@ GitHub als soziales Netzwerk für Softwareentwickler! Schau dir an welche Entwic
 
 Heute habe ich an [Issue #10](https://github.com/LernMoment/DailyGitHub/issues/10) gearbeitet. Es geht darum, dass du Schlüsselwörter wie `location` oder `followers` in einer Suche auf GitHub verwenden kannst. Damit kannst du ziemlich schnell heraus finden, welche Organisationen in deiner Stadt ein Interesse an dir als Entwickler haben könnten. Die genaue Syntax findest du [hier](https://github.com/LernMoment/DailyGitHub/issues/10#issuecomment-220796831).
 
-Leider muss ich sagen, dass die Firmen in Bielefeld nicht gerade super aktiv auf GitHub sind.
+Leider muss ich sagen, dass die Firmen in Bielefeld nicht gerade super aktiv auf GitHub sind. Schade!
+
+Weitere Artefakte an denen im Rahmen von #DailyGitHub heute gearbeitet wurde:
+
+ - [Issue: Planung mit Issues / Milestones](https://github.com/LernMoment/DailyGitHub/issues/13)
+ - [Issue: Show: "Entwickler in deiner Stadt"](https://github.com/LernMoment/DailyGitHub/issues/12)
+ - [Issue: "Bekannte" Personen in die Show holen](https://github.com/LernMoment/DailyGitHub/issues/11)
+ - [Issue: Wichtige Suchanfragen](https://github.com/LernMoment/DailyGitHub/issues/10)
+ - [Issue: Commit Messages](https://github.com/LernMoment/DailyGitHub/issues/9)
 
 ## Semantik für Labels - Episode 1
 
