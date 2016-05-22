@@ -2,6 +2,17 @@
 
 Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://www.youtube.com/playlist?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ).
 
+## Coole Issues die 1. - Episode 3
+
+Du kannst die Episode auf YouTube oder auf Facebook ansehen.
+
+Woran erkennst du einen professionellen Softwareentwickler? Ich erkläre es dir anhand [dieses](https://twitter.com/tomaspetricek/status/733747243082207234?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email) GitHub Issues. 
+Die detailierte Analyse habe ich für dich in [Issue #16](https://github.com/LernMoment/DailyGitHub/issues/16#issuecomment-220833811) dokumentiert. Dort habe ich auch noch ein paar Gedanken festgehalten zur Frage "Warum würde ich den Autor des Issues sofort einstellen?" Diese Details haben es nicht in die Show geschafft, weil sie eh schon sehr lang ist.
+
+Die weitere Vorbereitung habe ich in [Issue #20](https://github.com/LernMoment/DailyGitHub/issues/20) dokumentiert.
+
+**Wenn du ein Issue kennst welches ich im Rahmen von "Coole Issues" analysieren soll, dann hinterlasse mir [einen Kommentar](https://github.com/LernMoment/DailyGitHub/issues/23)**
+
 ## Entwickler in deiner Nähe - Episode 2
 
 Du kannst die Episode auf [YouTube](https://youtu.be/PXxHcG-Sifc) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/952368361547950/) ansehen.
