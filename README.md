@@ -6,6 +6,7 @@
  - Der [virtuelle Arschtritt](https://github.com/LernMoment/DailyGitHub/issues/1)
  - Die [Show-Notes](ShowNotes.md) zu jeder Episode der #DailyGitHub Show
  - Was auf [Facebook](https://www.facebook.com/hashtag/dailygithub?fref=ts) über #DailyGitHub berichtet wird
+ - Themen der Show für die kommende Woche: [Redaktionsplan KW21](https://github.com/LernMoment/DailyGitHub/milestones/Show_KW21)
 
 ## Was?
 
