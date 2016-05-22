@@ -4,7 +4,7 @@ Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://w
 
 ## Coole Issues die 1. - Episode 3
 
-Du kannst die Episode auf YouTube oder auf Facebook ansehen.
+Du kannst die Episode auf [YouTube](https://youtu.be/vCC8imTlnCE) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/952930898158363/) ansehen.
 
 Woran erkennst du einen professionellen Softwareentwickler? Ich erkläre es dir anhand [dieses](https://twitter.com/tomaspetricek/status/733747243082207234?cn=ZmxleGlibGVfcmVjcw%3D%3D&refsrc=email) GitHub Issues. 
 Die detailierte Analyse habe ich für dich in [Issue #16](https://github.com/LernMoment/DailyGitHub/issues/16#issuecomment-220833811) dokumentiert. Dort habe ich auch noch ein paar Gedanken festgehalten zur Frage "Warum würde ich den Autor des Issues sofort einstellen?" Diese Details haben es nicht in die Show geschafft, weil sie eh schon sehr lang ist.
