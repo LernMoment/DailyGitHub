@@ -2,12 +2,13 @@
 
 ## Links
 
- - Die #DailyGitHub Show auf [YouTube](https://www.youtube.com/playlist?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ)
- - Der [virtuelle Arschtritt](https://github.com/LernMoment/DailyGitHub/issues/1)
+ - Die **#DailyGitHub Show** auf [YouTube](https://www.youtube.com/playlist?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ)
+ - Der [**virtuelle Arschtritt**](https://github.com/LernMoment/DailyGitHub/issues/1)
  - Die [Show-Notes](ShowNotes.md) zu jeder Episode der #DailyGitHub Show
  - Was auf [Facebook](https://www.facebook.com/hashtag/dailygithub?fref=ts) und [Twitter](https://twitter.com/search?q=%23DailyGitHub&src=typd) über #DailyGitHub berichtet wird
- - Themen der Show für die kommende Woche: [Redaktionsplan KW21](https://github.com/LernMoment/DailyGitHub/milestones/Show_KW21)
- - Deine Ideen für die Serie [Coole Issues](https://github.com/LernMoment/DailyGitHub/issues/23)
+ - Themen der Show für die kommende Woche: [**Redaktionsplan KW21**](https://github.com/LernMoment/DailyGitHub/milestones/Show_KW21)
+ - Deine Ideen für die Serie [**Coole Issues**](https://github.com/LernMoment/DailyGitHub/issues/23)
+ - [**Umfrage**](https://github.com/LernMoment/DailyGitHub/issues/24): Was ist dein **größtes Problem** beim Anlegen einer **GitHub-Page**?
 
 ## Was?
 
