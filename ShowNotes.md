@@ -4,7 +4,7 @@ Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://w
 
 ## Anhänge für Issues - Episode 4
 
-Du kannst die Episode auf [YouTube](https://youtu.be/KJXixJfjtco) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/952930898158363/) ansehen.
+Du kannst die Episode auf [YouTube](https://youtu.be/KJXixJfjtco) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/953786091406177/) ansehen.
 
 Das anhängen von Dateien ist einfach. Es wird sogar immer darauf hingewiesen. Ich habe es nur nicht gesehen. Damit dir das nicht auch so geht, zeige ich dir, wie du einen Anhang an ein Issue in GitHub bekommst.
 Anhänge können insbesondere bei Fehlerbeschreibungen sehr hilfreich sein um zu sehen, wie das Fehlverhalten der Software aussieht (siehe auch Episode 3!). Du kannst Bilder, Dokumente und Zip-Dateien an ein Issue hängen. Die Details dazu findest du [hier](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/).
