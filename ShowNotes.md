@@ -2,6 +2,22 @@
 
 Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://www.youtube.com/playlist?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ).
 
+## GitHub Pages für Projekte - Episode 5
+
+Du kannst die Episode auf [YouTube](https://youtu.be/DIOAOMRKZpM) oder auf [Facebook]() ansehen.
+
+GitHub Pages sind ein tolles Mittel um zu deinem Projekt, oder auch zu deinem Profil, eine statische Webseite mit wichtigen Informationen zu veröffentlichen. GitHub hat es dir an vielen Stellen sehr einfach gemacht. In dieser Episode stelle ich dir einen Fall vor, in dem das Aufsetzen der GitHub Pages nicht ganz so einfach ist.
+
+Wenn du dich erst nachträglich entscheidest, dass du GitHub Pages in deinem Projekt verwenden willst, ist das einfach, sofern du eines der von GitHub vorausgewählten Themes verwendest. Wenn du jedoch dein eigenes oder eines der unzähligen Themes aus dem Netz verwenden willst, ist ein wenig mehr Arbeit nötig.
+
+Die einzelnen Schritte die ich dir im Video zeige, habe ich in [Issue 25](https://github.com/LernMoment/DailyGitHub/issues/25#issuecomment-221253844) nochmals aufgeschrieben. So kannst du sie dir anschauen, wenn es Probleme gibt.
+
+Das von mir verwendete Theme: [DevTips - Artists Theme](https://github.com/DevTips/Artists-Theme)
+Weitere, häufig kostenlose Themes: [Jekyll Themes](http://jekyllthemes.io)
+Die neue Webseite von #DailyGitHub: [lernmoment.github.io/DailyGitHub](http://lernmoment.github.io/DailyGitHub/)
+
+**Hast du eine GitHub Page für dein Projekt angelegt? Ich würde sie total gerne sehen! Hinterlasse mir [hier](https://github.com/LernMoment/DailyGitHub/issues/15) einen Link.**
+
 ## Anhänge für Issues - Episode 4
 
 Du kannst die Episode auf [YouTube](https://youtu.be/KJXixJfjtco) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/953786091406177/) ansehen.
