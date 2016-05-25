@@ -4,7 +4,7 @@ Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://w
 
 ## GitHub Pages für Projekte - Episode 5
 
-Du kannst die Episode auf [YouTube](https://youtu.be/DIOAOMRKZpM) oder auf [Facebook]() ansehen.
+Du kannst die Episode auf [YouTube](https://youtu.be/DIOAOMRKZpM) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/954243734693746/) ansehen.
 
 GitHub Pages sind ein tolles Mittel um zu deinem Projekt, oder auch zu deinem Profil, eine statische Webseite mit wichtigen Informationen zu veröffentlichen. GitHub hat es dir an vielen Stellen sehr einfach gemacht. In dieser Episode stelle ich dir einen Fall vor, in dem das Aufsetzen der GitHub Pages nicht ganz so einfach ist.
 
