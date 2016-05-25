@@ -12,9 +12,12 @@ Wenn du dich erst nachträglich entscheidest, dass du GitHub Pages in deinem Pro
 
 Die einzelnen Schritte die ich dir im Video zeige, habe ich in [Issue 25](https://github.com/LernMoment/DailyGitHub/issues/25#issuecomment-221253844) nochmals aufgeschrieben. So kannst du sie dir anschauen, wenn es Probleme gibt.
 
-Das von mir verwendete Theme: [DevTips - Artists Theme](https://github.com/DevTips/Artists-Theme)
-Weitere, häufig kostenlose Themes: [Jekyll Themes](http://jekyllthemes.io)
-Die neue Webseite von #DailyGitHub: [lernmoment.github.io/DailyGitHub](http://lernmoment.github.io/DailyGitHub/)
+Weitere Links:
+
+ - Das von mir verwendete Theme: [DevTips - Artists Theme](https://github.com/DevTips/Artists-Theme)
+ - Weitere, häufig kostenlose Themes: [Jekyll Themes](http://jekyllthemes.io)
+ - Die neue Webseite von #DailyGitHub: [lernmoment.github.io/DailyGitHub](http://lernmoment.github.io/DailyGitHub/)
+ - Eine weitere großartige Entwickler-Show (vom Herausgeber des Themes): [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
 
 **Hast du eine GitHub Page für dein Projekt angelegt? Ich würde sie total gerne sehen! Hinterlasse mir [hier](https://github.com/LernMoment/DailyGitHub/issues/15) einen Link.**
 
