@@ -4,7 +4,7 @@ Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://w
 
 ## Wichtige Markdown Elemente für Issues / Pull Requests - Episode 6
 
-Du kannst die Episode auf [YouTube](https://youtu.be/TzyHMDYhQL8) oder auf [Facebook]() ansehen.
+Du kannst die Episode auf [YouTube](https://youtu.be/TzyHMDYhQL8) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/956266314491488/) ansehen.
 
 Wie in [Episode 3](https://github.com/LernMoment/DailyGitHub/blob/master/ShowNotes.md#coole-issues-die-1---episode-3) gezeigt, ist es wichtig, dass du deine Issues und Pull Requests strukturiert schreibst. Dazu gehört auch, dass du ein paar der wichtigsten Markdown Elemente kennst.
 
