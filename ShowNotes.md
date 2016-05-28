@@ -2,6 +2,16 @@
 
 Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://www.youtube.com/playlist?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ).
 
+## Wichtige Markdown Elemente für Issues / Pull Requests - Episode 6
+
+Du kannst die Episode auf [YouTube](https://youtu.be/TzyHMDYhQL8) oder auf [Facebook]() ansehen.
+
+Wie in [Episode 3](https://github.com/LernMoment/DailyGitHub/blob/master/ShowNotes.md#coole-issues-die-1---episode-3) gezeigt, ist es wichtig, dass du deine Issues und Pull Requests strukturiert schreibst. Dazu gehört auch, dass du ein paar der wichtigsten Markdown Elemente kennst.
+
+Markdown ist eine einfache Beschreibungssprache. Du kannst direkt in den Text Formatierungselemente einfügen. [Bei GitHub](https://guides.github.com/features/mastering-markdown/) gibt es auch eine gute Einführung allerdings nur auf Englisch.
+
+In dieser Episode habe ich dir [Issue 21](https://github.com/LernMoment/DailyGitHub/issues/21#issue-156154066) gezeigt. DOrt findest du auch die von mir vorgestellten Markdown Elemente. Aus meiner Sicht die wichtigsten sind Auflistungen, Inline Code, Fett und Kursiv.
+
 ## GitHub Pages für Projekte - Episode 5
 
 Du kannst die Episode auf [YouTube](https://youtu.be/DIOAOMRKZpM) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/954243734693746/) ansehen.
