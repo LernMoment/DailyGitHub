@@ -6,7 +6,7 @@ Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://w
 
 ![Titelbild Episode 7](https://img.youtube.com/vi/rPBrI2fJ6uY/0.jpg)
 
-Du kannst die Episode auf [YouTube](https://youtu.be/rPBrI2fJ6uY) oder auf [Facebook]() ansehen.
+Du kannst die Episode auf [YouTube](https://youtu.be/rPBrI2fJ6uY) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/957125974405522/) ansehen.
 
 Wie in [Issue 15 - Was ist DEIN Projekt](https://github.com/LernMoment/DailyGitHub/issues/15) beschrieben, arbeite ich gerne an deinem Projekt auf GitHub und stelle es auch hier in der Show vor. Heute geht es um das Projekt [Sinelabore](https://github.com/sinelabore).
 
