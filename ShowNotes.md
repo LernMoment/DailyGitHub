@@ -2,6 +2,18 @@
 
 Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://www.youtube.com/playlist?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ).
 
+## DEIN Projekt: SinelaboreRT - Episode 7
+
+Du kannst die Episode auf [![YouTube](https://img.youtube.com/vi/rPBrI2fJ6uY/0.jpg)](https://youtu.be/rPBrI2fJ6uY) oder auf [Facebook]() ansehen.
+
+Wie in [Issue 15 - Was ist DEIN Projekt](https://github.com/LernMoment/DailyGitHub/issues/15) beschrieben, arbeite ich gerne an deinem Projekt auf GitHub und stelle es auch hier in der Show vor. Heute geht es um das Projekt [Sinelabore](https://github.com/sinelabore).
+
+Es zeigt, dass du dir GitHub auch dann zu nutze machen kannst, wenn dein Projekt NICHT Open Source ist. Bei Sinelabore handelt es sich um einen Generator, der aus UML Zustands- und Aktivitätsdiagrammen Quellcode generiert. Initial war er nur für eingebettete System und die Programmiersprache C, doch nun gibt es ihn auch für C++ und Java. Den Generator findest du auf [www.sinelabore.com](http://www.sinelabore.com).
+
+Die in dieser Episode vorgestellten Änderungen habe ich im Rahmen des Pull Requests [sinelabore/examples#2](https://github.com/sinelabore/examples/pull/2) gemacht. Dabei wurde insbesondere das verlinken von Bildern die bereits im Verzeichnis sind angewendet.
+
+Wenn du auch ein Bild in deinem Markdown anzeigen willst, kannst du dies so machen: `![Alternativtext](Pfad zum Bild)` Dabei wird der `Alternativtext` nur angezeigt, wenn das Bild nicht gefunden wurde. Der `Pfad zum Bild` ist bezogen auf die Position der Markdown-Datei in dem du den Link erstellst. Wichtig ist, dass du den Pfad inklusive Dateinamen und Endung angibst!
+
 ## Wichtige Markdown Elemente für Issues / Pull Requests - Episode 6
 
 Du kannst die Episode auf [YouTube](https://youtu.be/TzyHMDYhQL8) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/956266314491488/) ansehen.
