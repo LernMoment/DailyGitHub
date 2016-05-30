@@ -6,7 +6,7 @@ Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://w
 
 ![Titelbild Episode 8](https://img.youtube.com/vi/91u92837ZrM/0.jpg)
 
-Du kannst die Episode auf [YouTube](https://youtu.be/91u92837ZrM) oder auf [Facebook]() ansehen.
+Du kannst die Episode auf [YouTube](https://youtu.be/91u92837ZrM) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/957746291010157/) ansehen.
 
 Heute geht es um das Thema "Milestones". Der für mich wichtigste Punkt ist, dass du immer nur einen Milestone einem Issue zuweisen kannst. Du kannst also nicht eine Hierarchie aufbauen.
 
