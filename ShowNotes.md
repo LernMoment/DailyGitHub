@@ -2,9 +2,19 @@
 
 Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://www.youtube.com/playlist?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ).
 
-## DEIN Projekt: SinelaboreRT - Episode 7
+## Einführung Milestones - Episode 8
 
-![Titelbild Episode 7](https://img.youtube.com/vi/rPBrI2fJ6uY/0.jpg)
+![Titelbild Episode 8](https://img.youtube.com/vi/91u92837ZrM/0.jpg)
+
+Du kannst die Episode auf [YouTube](https://youtu.be/91u92837ZrM) oder auf [Facebook]() ansehen.
+
+Heute geht es um das Thema "Milestones". Der für mich wichtigste Punkt ist, dass du immer nur einen Milestone einem Issue zuweisen kannst. Du kannst also nicht eine Hierarchie aufbauen.
+
+Für DailyGitHub verwende ich Milestones als Redaktionsplan. Hier findest du zum Beispiel den [Redaktionsplan für KW21](https://github.com/LernMoment/DailyGitHub/issues?q=milestone%3AShow_KW21).
+
+Auf Twitter kannst du mir unter [@LernMoment](https://twitter.com/LernMoment) folgen oder alle Aktivitäten rund um [#DailyGitHub verfolgen](https://twitter.com/search?src=typd&q=%23DailyGitHub). Es würde meinen Tag noch besser machen, wenn du mich anzwitscherst (gibt es das Wort wohl schon?).
+
+## DEIN Projekt: SinelaboreRT - Episode 7
 
 Du kannst die Episode auf [YouTube](https://youtu.be/rPBrI2fJ6uY) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/957125974405522/) ansehen.
 
