@@ -2,9 +2,19 @@
 
 Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://www.youtube.com/playlist?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ).
 
-## Einführung Milestones - Episode 8
+## Gutes README.md - Episode 9
 
-![Titelbild Episode 8](https://img.youtube.com/vi/91u92837ZrM/0.jpg)
+![Titelbild Episode 9](https://img.youtube.com/vi/8ehcayMgTe4/0.jpg)
+
+Du kannst die Episode auf [YouTube](https://youtu.be/8ehcayMgTe4) oder auf [Facebook]() ansehen.
+
+In dieser Episode erkläre ich dir, was aus meiner Sicht ein gutes README.md ausmacht. Dein GitHub-Projekt sollte ein gutes README.md haben, damit du sowohl Anwendern wie auch Unterstützern einen leichten Einstieg bietest. Für mich ist es sehr wichtig, dass ich mich in einem Projekt sofort zurecht finde. Wenn ich erst ewig lange suchen muss wie ich dein Projekt bauen kann, dann muss es mich schon sehr interessieren, damit ich den Aufwand auf mich nehme.
+
+Die wichtigsten Punkte sowie einen Link zu einem Artikel mit weiteren Informationen findest du in [Issue #36](https://github.com/LernMoment/DailyGitHub/issues/36#issuecomment-222658776).
+
+**Du willst Tipps von mir wie du dein README.md verbessern kannst? Dann kommentiere [Issue #15](https://github.com/LernMoment/DailyGitHub/issues/15) und füge einen Link zu deinem Projekt ein. Du bekommst von mir Verbesserungsvorschläge via Pull Request.**
+
+## Einführung Milestones - Episode 8
 
 Du kannst die Episode auf [YouTube](https://youtu.be/91u92837ZrM) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/957746291010157/) ansehen.
 
