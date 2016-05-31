@@ -6,7 +6,7 @@ Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://w
 
 ![Titelbild Episode 9](https://img.youtube.com/vi/8ehcayMgTe4/0.jpg)
 
-Du kannst die Episode auf [YouTube](https://youtu.be/8ehcayMgTe4) oder auf [Facebook]() ansehen.
+Du kannst die Episode auf [YouTube](https://youtu.be/8ehcayMgTe4) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/958254904292629/) ansehen.
 
 In dieser Episode erkläre ich dir, was aus meiner Sicht ein gutes README.md ausmacht. Dein GitHub-Projekt sollte ein gutes README.md haben, damit du sowohl Anwendern wie auch Unterstützern einen leichten Einstieg bietest. Für mich ist es sehr wichtig, dass ich mich in einem Projekt sofort zurecht finde. Wenn ich erst ewig lange suchen muss wie ich dein Projekt bauen kann, dann muss es mich schon sehr interessieren, damit ich den Aufwand auf mich nehme.
 
