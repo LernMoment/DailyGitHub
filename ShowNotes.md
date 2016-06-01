@@ -4,11 +4,13 @@ Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://w
 
 ## DEIN Projekt - Mein Projekt | Episode 10
 
-![Titelbild Episode 9](https://img.youtube.com/vi/8ehcayMgTe4/0.jpg)
+![Titelbild Episode 10](https://img.youtube.com/vi/5IBnrO0HVSc/0.jpg)
 
-Du kannst die Episode auf [YouTube]() oder auf [Facebook]() ansehen.
+Du kannst die Episode auf [YouTube](https://youtu.be/5IBnrO0HVSc) oder auf [Facebook]() ansehen.
 
-Eine etwas ungewöhnliche Folge insbesondere, weil sie Teil der [Mini Serie "DEIN Projekt"](https://github.com/LernMoment/DailyGitHub/issues/15) ist. Für mich ist #DailyGitHub das Projekt an dem ich jeden Tag arbeite. Alleine die letzten 12 Tage haben einen enormen Fortschritt gebracht. Dabei habe ich (abgesehen von der Aufnahme und Bearbeitung der Show) täglich nicht viel Zeit (so zwischen 0,5h und 3h) investiert.
+Eine etwas ungewöhnliche Folge insbesondere, weil sie Teil der [Mini Serie "DEIN Projekt"](https://github.com/LernMoment/DailyGitHub/issues/15) ist. Mir geht es einfach darum zu zeigen, dass du mit einem klaren Ziel vor Augen und täglichen kleinen Schritten wirklich etwas bewegen kannst.
+
+Für mich ist #DailyGitHub das Projekt an dem ich jeden Tag arbeite. Alleine die letzten 12 Tage haben einen enormen Fortschritt gebracht. Dabei habe ich (abgesehen von der Aufnahme und Bearbeitung der Show) täglich nicht viel Zeit (so zwischen 0,5h und 3h) investiert.
 
 Was ich in diesen 12 Tagen erreicht habe und wie dir das ganze einen Nutzen bringen kann bzw. wie du dich einbringen kannst, erkläre ich in dieser Episode. Dabei zeige ich dir folgende Seiten / Issues
 
