@@ -2,9 +2,25 @@
 
 Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://www.youtube.com/playlist?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ).
 
-## Gutes README.md - Episode 9
+## DEIN Projekt - Mein Projekt | Episode 10
 
 ![Titelbild Episode 9](https://img.youtube.com/vi/8ehcayMgTe4/0.jpg)
+
+Du kannst die Episode auf [YouTube]() oder auf [Facebook]() ansehen.
+
+Eine etwas ungewöhnliche Folge insbesondere, weil sie Teil der [Mini Serie "DEIN Projekt"](https://github.com/LernMoment/DailyGitHub/issues/15) ist. Für mich ist #DailyGitHub das Projekt an dem ich jeden Tag arbeite. Alleine die letzten 12 Tage haben einen enormen Fortschritt gebracht. Dabei habe ich (abgesehen von der Aufnahme und Bearbeitung der Show) täglich nicht viel Zeit (so zwischen 0,5h und 3h) investiert.
+
+Was ich in diesen 12 Tagen erreicht habe und wie dir das ganze einen Nutzen bringen kann bzw. wie du dich einbringen kannst, erkläre ich in dieser Episode. Dabei zeige ich dir folgende Seiten / Issues
+
+- [#DailyGitHub GitHub Page](https://lernmoment.github.io/DailyGitHub/)
+- [Virtueller Arschtritt](https://github.com/LernMoment/DailyGitHub/issues/1)
+- [ShowNotes](https://github.com/LernMoment/DailyGitHub/blob/master/ShowNotes.md)
+- [Was ist DEIN Projekt?](https://github.com/LernMoment/DailyGitHub/issues/15)
+- [Coole Issues und Pull Requests](https://github.com/LernMoment/DailyGitHub/issues/23)
+- [Thesen](https://github.com/LernMoment/DailyGitHub/labels/Bereich%3A%20These)
+- [Umfrage: GitHub Pages Tutorial](https://github.com/LernMoment/DailyGitHub/issues/24)
+
+## Gutes README.md | Episode 9
 
 Du kannst die Episode auf [YouTube](https://youtu.be/8ehcayMgTe4) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/958254904292629/) ansehen.
 
@@ -14,7 +30,7 @@ Die wichtigsten Punkte sowie einen Link zu einem Artikel mit weiteren Informatio
 
 **Du willst Tipps von mir wie du dein README.md verbessern kannst? Dann kommentiere [Issue #15](https://github.com/LernMoment/DailyGitHub/issues/15) und füge einen Link zu deinem Projekt ein. Du bekommst von mir Verbesserungsvorschläge via Pull Request.**
 
-## Einführung Milestones - Episode 8
+## Einführung Milestones | Episode 8
 
 Du kannst die Episode auf [YouTube](https://youtu.be/91u92837ZrM) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/957746291010157/) ansehen.
 
@@ -24,7 +40,7 @@ Für DailyGitHub verwende ich Milestones als Redaktionsplan. Hier findest du zum
 
 Auf Twitter kannst du mir unter [@LernMoment](https://twitter.com/LernMoment) folgen oder alle Aktivitäten rund um [#DailyGitHub verfolgen](https://twitter.com/search?src=typd&q=%23DailyGitHub). Es würde meinen Tag noch besser machen, wenn du mich anzwitscherst (gibt es das Wort wohl schon?).
 
-## DEIN Projekt: SinelaboreRT - Episode 7
+## DEIN Projekt: SinelaboreRT | Episode 7
 
 Du kannst die Episode auf [YouTube](https://youtu.be/rPBrI2fJ6uY) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/957125974405522/) ansehen.
 
@@ -36,7 +52,7 @@ Die in dieser Episode vorgestellten Änderungen habe ich im Rahmen des Pull Requ
 
 Wenn du auch ein Bild in deinem Markdown anzeigen willst, kannst du dies so machen: `![Alternativtext](Pfad zum Bild)` Dabei wird der `Alternativtext` nur angezeigt, wenn das Bild nicht gefunden wurde. Der `Pfad zum Bild` ist bezogen auf die Position der Markdown-Datei in dem du den Link erstellst. Wichtig ist, dass du den Pfad inklusive Dateinamen und Endung angibst!
 
-## Wichtige Markdown Elemente für Issues / Pull Requests - Episode 6
+## Wichtige Markdown Elemente für Issues / Pull Requests | Episode 6
 
 Du kannst die Episode auf [YouTube](https://youtu.be/TzyHMDYhQL8) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/956266314491488/) ansehen.
 
@@ -46,7 +62,7 @@ Markdown ist eine einfache Beschreibungssprache. Du kannst direkt in den Text Fo
 
 In dieser Episode habe ich dir [Issue 21](https://github.com/LernMoment/DailyGitHub/issues/21#issue-156154066) gezeigt. DOrt findest du auch die von mir vorgestellten Markdown Elemente. Aus meiner Sicht die wichtigsten sind Auflistungen, Inline Code, Fett und Kursiv.
 
-## GitHub Pages für Projekte - Episode 5
+## GitHub Pages für Projekte | Episode 5
 
 Du kannst die Episode auf [YouTube](https://youtu.be/DIOAOMRKZpM) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/954243734693746/) ansehen.
 
@@ -65,7 +81,7 @@ Weitere Links:
 
 **Hast du eine GitHub Page für dein Projekt angelegt? Ich würde sie total gerne sehen! Hinterlasse mir [hier](https://github.com/LernMoment/DailyGitHub/issues/15) einen Link.**
 
-## Anhänge für Issues - Episode 4
+## Anhänge für Issues | Episode 4
 
 Du kannst die Episode auf [YouTube](https://youtu.be/KJXixJfjtco) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/953786091406177/) ansehen.
 
@@ -74,7 +90,7 @@ Anhänge können insbesondere bei Fehlerbeschreibungen sehr hilfreich sein um zu
 
 Die weitere Vorbereitung habe ich in [Issue #18](https://github.com/LernMoment/DailyGitHub/issues/18) dokumentiert.
 
-## Coole Issues die 1. - Episode 3
+## Coole Issues die 1. | Episode 3
 
 Du kannst die Episode auf [YouTube](https://youtu.be/vCC8imTlnCE) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/952930898158363/) ansehen.
 
@@ -85,7 +101,7 @@ Die weitere Vorbereitung habe ich in [Issue #20](https://github.com/LernMoment/D
 
 **Wenn du ein Issue kennst welches ich im Rahmen von "Coole Issues" analysieren soll, dann hinterlasse mir [einen Kommentar](https://github.com/LernMoment/DailyGitHub/issues/23)**
 
-## Entwickler in deiner Nähe - Episode 2
+## Entwickler in deiner Nähe | Episode 2
 
 Du kannst die Episode auf [YouTube](https://youtu.be/PXxHcG-Sifc) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/952368361547950/) ansehen.
 
@@ -103,7 +119,7 @@ Weitere Artefakte an denen im Rahmen von #DailyGitHub heute gearbeitet wurde:
  - [Issue: Wichtige Suchanfragen](https://github.com/LernMoment/DailyGitHub/issues/10)
  - [Issue: Commit Messages](https://github.com/LernMoment/DailyGitHub/issues/9)
 
-## Semantik für Labels - Episode 1
+## Semantik für Labels | Episode 1
 
 Du kannst die Episode auf [YouTube](https://youtu.be/-huhkjKxpqM?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/951793831605403/) ansehen.
 
