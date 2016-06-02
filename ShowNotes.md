@@ -6,7 +6,7 @@ Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://w
 
 ![Titelbild Episode 11](https://img.youtube.com/vi/3fUFMHFd7qM/0.jpg)
 
-Du kannst die Episode auf [YouTube](https://youtu.be/3fUFMHFd7qM) oder auf [Facebook]() ansehen.
+Du kannst die Episode auf [YouTube](https://youtu.be/3fUFMHFd7qM) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/959450974173022/) ansehen.
 
 Ab dem 22.6. starte ich die "??? C# Challenge". Es geht darum, dass du eine C# Anwendung auf GitHub entwickelst. Ich werde dich dabei mit Tips, Musterlösungen, Ratschlägen und mehr unterstützen. Besonders wichtig ist mir, dass du erste Erfahrungen sammelst wenn es darum geht von einer Aufgabenstellung zur fertigen Anwendung zu kommen.
 
