@@ -2,11 +2,19 @@
 
 Die wichtigsten Informationen zu jeder Episode der [#DailyGitHub Show](https://www.youtube.com/playlist?list=PLP2TrPpx5VNk5uNZEdAPuePd-lcvwzhCZ).
 
+## Die ??? C# Challenge | Episode 11
+
+![Titelbild Episode 11](https://img.youtube.com/vi/3fUFMHFd7qM/0.jpg)
+
+Du kannst die Episode auf [YouTube](https://youtu.be/3fUFMHFd7qM) oder auf [Facebook]() ansehen.
+
+Ab dem 22.6. starte ich die "??? C# Challenge". Es geht darum, dass du eine C# Anwendung auf GitHub entwickelst. Ich werde dich dabei mit Tips, Musterlösungen, Ratschlägen und mehr unterstützen. Besonders wichtig ist mir, dass du erste Erfahrungen sammelst wenn es darum geht von einer Aufgabenstellung zur fertigen Anwendung zu kommen.
+
+[Auf LernMoment.de](http://www.lernmoment.de/csharp-challenge/) bekommst du alle weiteren Informationen zur Challenge und kannst dich auch anmelden, wenn du die Vorteile in Anspruch nehmen möchtest.
+
 ## DEIN Projekt - Mein Projekt | Episode 10
 
-![Titelbild Episode 10](https://img.youtube.com/vi/5IBnrO0HVSc/0.jpg)
-
-Du kannst die Episode auf [YouTube](https://youtu.be/5IBnrO0HVSc) oder auf [Facebook]() ansehen.
+Du kannst die Episode auf [YouTube](https://youtu.be/5IBnrO0HVSc) oder auf [Facebook](https://www.facebook.com/LernMoment/videos/958951857556267/) ansehen.
 
 Eine etwas ungewöhnliche Folge insbesondere, weil sie Teil der [Mini Serie "DEIN Projekt"](https://github.com/LernMoment/DailyGitHub/issues/15) ist. Mir geht es einfach darum zu zeigen, dass du mit einem klaren Ziel vor Augen und täglichen kleinen Schritten wirklich etwas bewegen kannst.
 
